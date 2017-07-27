@@ -1,0 +1,3 @@
+TellMeAJoke tell me a joke
+TellMeAJoke find me a joke
+TellMeAJoke give me a joke
